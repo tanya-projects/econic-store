@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/econic-store/static/css/main.073c9b0a.css",
+    "main.js": "/econic-store/static/js/main.186760d8.js",
+    "static/js/787.9100dff6.chunk.js": "/econic-store/static/js/787.9100dff6.chunk.js",
+    "index.html": "/econic-store/index.html",
+    "main.073c9b0a.css.map": "/econic-store/static/css/main.073c9b0a.css.map",
+    "main.186760d8.js.map": "/econic-store/static/js/main.186760d8.js.map",
+    "787.9100dff6.chunk.js.map": "/econic-store/static/js/787.9100dff6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.186760d8.js"
+  ]
+}
